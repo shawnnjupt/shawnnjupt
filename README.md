@@ -19,7 +19,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/shawnnjupt/count.svg) visi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=shawnnjupt&theme=dark&show_icons=true)
 
-![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnnjupt&size_weight=0.5&count_weight=0.5)
+
+![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnnjupt&size_weight=0.5&count_weight=0.6)
 
 
 ## My Skill Set  
