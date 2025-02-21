@@ -8,7 +8,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/shawnnjupt/count.svg) visi
 
 # I'm  shawn(xiao cong)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently studying in Nanjing University
+- 🔭 I’m currently studying in Social University
 - 🌱 I’m currently learning **Deep learning**
 - 👯 Currently working in **Nanjing, China**
 - 🤔 I love **Music, photography**
